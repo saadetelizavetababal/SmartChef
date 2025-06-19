@@ -92,10 +92,18 @@ SmartChef aims to reduce food waste, simplify home cooking, and encourage health
 ### Web Interface
 
 <p align="center">
-  <img src="screenshots/web_home.png" width="220"/>
-  <img src="screenshots/web_search.png" width="220"/>
-  <img src="screenshots/web_recipe.png" width="220"/>
-  <img src="screenshots/web_mealplanner.png" width="220"/>
+  <a href="https://i.hizliresim.com/4uf56b4.jpg">
+    <img src="https://i.hizliresim.com/4uf56b4.jpg" width="220"/>
+  </a>
+  <a href="screenshots/web_search.png">
+    <img src="screenshots/web_search.png" width="220"/>
+  </a>
+  <a href="screenshots/web_recipe.png">
+    <img src="screenshots/web_recipe.png" width="220"/>
+  </a>
+  <a href="screenshots/web_mealplanner.png">
+    <img src="screenshots/web_mealplanner.png" width="220"/>
+  </a>
 </p>
 
 ### Mobile Interface
