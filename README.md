@@ -97,12 +97,12 @@ SmartChef aims to reduce food waste, simplify home cooking, and encourage health
 
 ### Mobile Interface
 
-
-  <img src="![Image](https://github.com/user-attachments/assets/ce61f96e-273d-4530-b73d-eaf222da351c)" width="220"/>
- <img src="![Image](![Image](https://github.com/user-attachments/assets/aaa47a0f-9d4a-4601-a431-fe42aad9abd6))" width="220"/>
- <img src="![Image](![Image](https://github.com/user-attachments/assets/339e6ee7-6eb0-436c-8a37-78cd5bedf11f))" width="220"/>
- <img src="![Image](![Image](https://github.com/user-attachments/assets/ac333469-47fe-4250-9334-d20e39d3c70f))" width="220"/>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce61f96e-273d-4530-b73d-eaf222da351c" width="220"/>
+ <img src="https://github.com/user-attachments/assets/aaa47a0f-9d4a-4601-a431-fe42aad9abd6" width="220"/>
+ <img src="https://github.com/user-attachments/assets/339e6ee7-6eb0-436c-8a37-78cd5bedf11f" width="220"/>
+ <img src="https://github.com/user-attachments/assets/ac333469-47fe-4250-9334-d20e39d3c70f" width="220"/>
+</p>
 ---
 
 ## 🧪 How to Run the Project
